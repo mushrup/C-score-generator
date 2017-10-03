@@ -1,1 +1,2 @@
 # C-score-generator
+A random forest c score generator of the stock universe in 'All_tokens.txt' files. U can download and modify the all_stock files before running the 'runable.py'.runable will basically run all stocks that are given by 'All_token.txt' files and generate a csv file that include each stocks' prediction power. And when after run 'python add_change.py sys.argv'the change and price of user input variable over recent five years will be plotted and compared to price change over recent 5 years.
